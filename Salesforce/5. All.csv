@@ -2,7 +2,7 @@ Status,Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
 Done,MEDIUM,Minimum Operations to Reduce an Integer to 0,100.0,0.006353253069685856,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0,"Dynamic Programming, Greedy, Bit Manipulation"
 Done,MEDIUM,String Compression,87.9,0.006096660388761685,https://leetcode.com/problems/string-compression,"Two Pointers, String"
 ,HARD,LFU Cache,80.1,0.005051292412834802,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-,MEDIUM,Time Needed to Rearrange a Binary String,78.7,0.005377298026648675,https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string,"String, Dynamic Programming, Simulation"
+Done,MEDIUM,Time Needed to Rearrange a Binary String,78.7,0.005377298026648675,https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string,"String, Dynamic Programming, Simulation"
 ,MEDIUM,Closest Equal Element Queries,74.6,0.005137772399419906,https://leetcode.com/problems/closest-equal-element-queries,"Array, Hash Table, Binary Search"
 ,HARD,Smallest Substring With Identical Characters I,70.6,0.0020973878405637974,https://leetcode.com/problems/smallest-substring-with-identical-characters-i,"Array, Binary Search, Enumeration"
 ,HARD,Smallest Substring With Identical Characters II,70.6,0.003914269883644789,https://leetcode.com/problems/smallest-substring-with-identical-characters-ii,"String, Binary Search"

@@ -8,7 +8,7 @@ Done,MEDIUM,Closest Equal Element Queries,74.6,0.005137772399419906,https://leet
 ,HARD,Smallest Substring With Identical Characters II,70.6,0.003914269883644789,https://leetcode.com/problems/smallest-substring-with-identical-characters-ii,"String, Binary Search"
 ,EASY,Maximum Product of Three Numbers,67.0,0.004831450231957493,https://leetcode.com/problems/maximum-product-of-three-numbers,"Array, Math, Sorting"
 Done,MEDIUM,Subarray Product Less Than K,65.6,0.005490445799783963,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
-,MEDIUM,Maximum Palindromes After Operations,65.6,0.004751480317086812,https://leetcode.com/problems/maximum-palindromes-after-operations,"Array, Hash Table, String, Greedy, Sorting, Counting"
+Done,MEDIUM,Maximum Palindromes After Operations,65.6,0.004751480317086812,https://leetcode.com/problems/maximum-palindromes-after-operations,"Array, Hash Table, String, Greedy, Sorting, Counting"
 ,MEDIUM,LRU Cache,64.2,0.004825722526820416,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
 ,MEDIUM,Remove Adjacent Almost-Equal Characters,64.2,0.0053553282635406645,https://leetcode.com/problems/remove-adjacent-almost-equal-characters,"String, Dynamic Programming, Greedy"
 ,MEDIUM,Maximum Number of Occurrences of a Substring,64.2,0.005506267794413966,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring,"Hash Table, String, Sliding Window"
